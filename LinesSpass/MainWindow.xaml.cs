@@ -123,7 +123,6 @@ namespace LinesSpass
             edges.Add(e4);
 
             List<AdvancedLines> lines = new List<AdvancedLines>();
-            int i = 0;
 
             lines.Add(new AdvancedLines(edges[0], edges[1]));
             lines.Add(new AdvancedLines(edges[1], edges[2]));
@@ -156,7 +155,6 @@ namespace LinesSpass
             edges.Add(e4);
 
             List<AdvancedLines> lines = new List<AdvancedLines>();
-            int i = 0;
 
             lines.Add(new AdvancedLines(edges[0], edges[1]));
             lines.Add(new AdvancedLines(edges[1], edges[2]));
